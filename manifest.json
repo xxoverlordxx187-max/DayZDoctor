@@ -1,9 +1,9 @@
 {
  "app": "DayZDoctor",
- "notes": "Release workflow: read UTF-8 on the Windows runner",
+ "notes": "New look: DayZ Doctor title banner, drifting gas fog, a readable version label, fewer false mod warnings",
  "date": "2026-11-05",
- "app_version": "2.4.0",
+ "app_version": "2.5.0",
  "engine_version": "2.2",
- "installer": "DayZDoctor_Setup_2.4.0.exe",
- "installer_sha256": "41da7995228bdc7234528df40b6e87309677ab0f007c369867a8878dff92a0af"
+ "installer": "DayZDoctor_Setup_2.5.0.exe",
+ "installer_sha256": "5af78b53b3fb5f7e024bc0dad5034ed3836d744658131c4360bc4dadaf5c0efa"
 }
