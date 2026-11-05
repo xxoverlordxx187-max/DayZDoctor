@@ -1,9 +1,9 @@
 {
  "app": "DayZDoctor",
- "notes": "2.4.0: updates now come through the installer, with an \"Update now\" pop-up when a new version is out",
- "date": "2026-11-04",
+ "notes": "Release workflow: read UTF-8 on the Windows runner",
+ "date": "2026-11-05",
  "app_version": "2.4.0",
  "engine_version": "2.2",
  "installer": "DayZDoctor_Setup_2.4.0.exe",
- "installer_sha256": "3a06a6b03f306d463ed998298127f6a56d5b58e6178e253ccd43fe7e13adc36d"
+ "installer_sha256": "41da7995228bdc7234528df40b6e87309677ab0f007c369867a8878dff92a0af"
 }
