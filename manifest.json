@@ -1,9 +1,9 @@
 {
  "app": "DayZDoctor",
- "notes": "New look: DayZ Doctor title banner, drifting gas fog, a readable version label, fewer false mod warnings",
+ "notes": "Toxic fog: thick neon gas now drifts over the whole window (Settings > Look, or Ctrl+Shift+F to turn it off)",
  "date": "2026-11-05",
- "app_version": "2.5.0",
+ "app_version": "2.5.1",
  "engine_version": "2.2",
- "installer": "DayZDoctor_Setup_2.5.0.exe",
- "installer_sha256": "5af78b53b3fb5f7e024bc0dad5034ed3836d744658131c4360bc4dadaf5c0efa"
+ "installer": "DayZDoctor_Setup_2.5.1.exe",
+ "installer_sha256": "4e8fde59eb0d3f8de4ea0cd8ba4510da493c2a36ef3fd1121e0254a3aeb0e15f"
 }
