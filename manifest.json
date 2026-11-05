@@ -1,9 +1,9 @@
 {
  "app": "DayZDoctor",
- "notes": "2.3.0: About page and new credits; every check now scans -mod= and -servermod=; Find a class and What needs this mod? search every mod by default",
+ "notes": "2.4.0: updates now come through the installer, with an \"Update now\" pop-up when a new version is out",
  "date": "2026-11-04",
- "app_version": "2.3.0",
+ "app_version": "2.4.0",
  "engine_version": "2.2",
- "installer": "DayZDoctor_Setup_2.3.0.exe",
- "installer_sha256": "cced7ff0266d99c16f4e92ceb0fd818732a24e3f4df7b1687b079aaa5a2e4175"
+ "installer": "DayZDoctor_Setup_2.4.0.exe",
+ "installer_sha256": "3a06a6b03f306d463ed998298127f6a56d5b58e6178e253ccd43fe7e13adc36d"
 }
