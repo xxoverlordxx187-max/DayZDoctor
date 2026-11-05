@@ -1,9 +1,10 @@
 {
  "app": "DayZDoctor",
- "notes": "New wide banner that fills any screen, smooth resizing, fog on both sides of wide windows",
+ "notes": "Checks update themselves after a DayZ patch, real progress bar, fix mods named and numbered for you",
  "date": "2026-11-05",
- "app_version": "2.5.4",
+ "app_version": "2.5.5",
  "engine_version": "2.2",
- "installer": "DayZDoctor_Setup_2.5.4.exe",
- "installer_sha256": "80bb5d8c49c607bc159fc9e0a85d89f94f968c53208b04bbc3dcdccf932021e8"
+ "dayz_version": "1.30.164289",
+ "installer": "DayZDoctor_Setup_2.5.5.exe",
+ "installer_sha256": "f6432f3222a9ebe6c418e941df46a5e93c216f36d80ae06d2420c392fa61ed39"
 }
