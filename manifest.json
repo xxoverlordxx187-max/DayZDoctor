@@ -1,9 +1,9 @@
 {
  "app": "DayZDoctor",
- "notes": "Sharp text on 4K and scaled screens, gas mask fog switch, Home button, Display settings",
+ "notes": "Full banner on any window size, clean command line shown first, catches extra spaces in mod names",
  "date": "2026-11-05",
- "app_version": "2.5.2",
+ "app_version": "2.5.3",
  "engine_version": "2.2",
- "installer": "DayZDoctor_Setup_2.5.2.exe",
- "installer_sha256": "18e841e5ae01e461ebcef2681de437b5cf84a3cd6ffc281ed10600c0c93f38d7"
+ "installer": "DayZDoctor_Setup_2.5.3.exe",
+ "installer_sha256": "32e7d445cbb7777cc04acadecfa7c1db69ec6963d6ca6791cdaa7317efd0958d"
 }
