@@ -1,9 +1,9 @@
 {
  "app": "DayZDoctor",
- "notes": "Full banner on any window size, clean command line shown first, catches extra spaces in mod names",
+ "notes": "New wide banner that fills any screen, smooth resizing, fog on both sides of wide windows",
  "date": "2026-11-05",
- "app_version": "2.5.3",
+ "app_version": "2.5.4",
  "engine_version": "2.2",
- "installer": "DayZDoctor_Setup_2.5.3.exe",
- "installer_sha256": "32e7d445cbb7777cc04acadecfa7c1db69ec6963d6ca6791cdaa7317efd0958d"
+ "installer": "DayZDoctor_Setup_2.5.4.exe",
+ "installer_sha256": "80bb5d8c49c607bc159fc9e0a85d89f94f968c53208b04bbc3dcdccf932021e8"
 }
