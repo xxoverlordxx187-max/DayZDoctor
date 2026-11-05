@@ -1,10 +1,10 @@
 {
  "app": "DayZDoctor",
- "notes": "Checks update themselves after a DayZ patch, real progress bar, fix mods named and numbered for you",
+ "notes": "Fog fixed on maximize, Server name saves as you type, script progress, JSON/XML auto-fix, patch notes pop-up",
  "date": "2026-11-05",
- "app_version": "2.5.5",
+ "app_version": "2.5.6",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
- "installer": "DayZDoctor_Setup_2.5.5.exe",
- "installer_sha256": "f6432f3222a9ebe6c418e941df46a5e93c216f36d80ae06d2420c392fa61ed39"
+ "installer": "DayZDoctor_Setup_2.5.6.exe",
+ "installer_sha256": "09ae8c825d7d576f470ff47d4f8d0fa42f4860820999e99b7249d26f44a28a66"
 }
