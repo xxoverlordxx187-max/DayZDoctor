@@ -1,9 +1,9 @@
 {
  "app": "DayZDoctor",
- "notes": "Toxic fog: thick neon gas now drifts over the whole window (Settings > Look, or Ctrl+Shift+F to turn it off)",
+ "notes": "Sharp text on 4K and scaled screens, gas mask fog switch, Home button, Display settings",
  "date": "2026-11-05",
- "app_version": "2.5.1",
+ "app_version": "2.5.2",
  "engine_version": "2.2",
- "installer": "DayZDoctor_Setup_2.5.1.exe",
- "installer_sha256": "4e8fde59eb0d3f8de4ea0cd8ba4510da493c2a36ef3fd1121e0254a3aeb0e15f"
+ "installer": "DayZDoctor_Setup_2.5.2.exe",
+ "installer_sha256": "18e841e5ae01e461ebcef2681de437b5cf84a3cd6ffc281ed10600c0c93f38d7"
 }
