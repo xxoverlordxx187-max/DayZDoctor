@@ -1,10 +1,16 @@
 {
  "app": "DayZDoctor",
- "notes": "Sounds: a door opens when a job finishes clean, an alarm when it finds problems (Settings > Sounds)",
- "date": "2026-11-05",
- "app_version": "2.5.7",
+ "notes": "Script count in the installed app, Patch 3 on the version line, #ifdef add-ons no longer missing, Find a class history",
+ "date": "2026-11-06",
+ "app_version": "2.5.8",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
- "installer": "DayZDoctor_Setup_2.5.7.exe",
- "installer_sha256": "976b24ff606e9c35cb03dee42a4e7d2ad4ba11dc7a40762b6f8665c53d636dc8"
+ "dayz_builds": {
+  "1.30.164289": {
+   "label": "Patch 3",
+   "date": "2026-11-03"
+  }
+ },
+ "installer": "DayZDoctor_Setup_2.5.8.exe",
+ "installer_sha256": "255a9fec1752d2df87bf9f21fd6265be83820463c68ad64a6776886558beb523"
 }
