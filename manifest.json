@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Script count in the installed app, Patch 3 on the version line, #ifdef add-ons no longer missing, Find a class history",
+ "notes": "New Fix mod page, fixed fix mod name, publish folder, restore old builds, minimize to tray, Coming soon",
  "date": "2026-11-06",
- "app_version": "2.5.8",
+ "app_version": "2.5.9",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.5.8.exe",
- "installer_sha256": "255a9fec1752d2df87bf9f21fd6265be83820463c68ad64a6776886558beb523"
+ "installer": "DayZDoctor_Setup_2.5.9.exe",
+ "installer_sha256": "2a8aab3ccb6bdf5d3f3e602babfad8c9cb715cc9d52610a5cb98851d5724f499"
 }
