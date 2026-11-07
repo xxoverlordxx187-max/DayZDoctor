@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Own PBO signer: DayZ Tools no longer needed to sign fix mods (checked against DayZ Tools on every build)",
- "date": "2026-11-06",
- "app_version": "2.6.0",
+ "notes": "Support DayZ Doctor card with a Ko-fi button, and the mod report restyled to match the app",
+ "date": "2026-11-07",
+ "app_version": "2.6.1",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.0.exe",
- "installer_sha256": "99fe755d06d7874e777254ec795872bb8c0f987450fca86bc2aecb8f5781ddd8"
+ "installer": "DayZDoctor_Setup_2.6.1.exe",
+ "installer_sha256": "0c379a2afd4fe82ab73217134e8f80a78ee5f30729fe75306a6badf7d8b0b82e"
 }
