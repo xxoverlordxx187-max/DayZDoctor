@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Key picker per map with a build confirmation box (pick the key your servers trust before signing)",
+ "notes": "Server profiles: run two servers on one map, per-server tag, V1.0 versioning, create-a-key, signer & stale-check fixes",
  "date": "2026-11-07",
- "app_version": "2.6.2",
+ "app_version": "2.6.3",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.2.exe",
- "installer_sha256": "eb9eac4e8a85611785944686fdb2d7181b7918c519108ec7afc167a00cc50e55"
+ "installer": "DayZDoctor_Setup_2.6.3.exe",
+ "installer_sha256": "00605d09d631eda8dbbb48416be21901da2505a1c813082bb919cd68f50c3707"
 }
