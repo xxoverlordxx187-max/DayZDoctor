@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Combination-lock fix as a load-first compat PBO in the same fix mod folder (2.6.8)",
+ "notes": "Small batch: silent updates, start-up jumble fix, Ctrl+F, keep-mod-line, signing-latest (2.6.9)",
  "date": "2026-11-08",
- "app_version": "2.6.8",
+ "app_version": "2.6.9",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.8.exe",
- "installer_sha256": "528eba0094c9947edf56ba24a8e803c0cae86f4781ad58d55082756d6638a1af"
+ "installer": "DayZDoctor_Setup_2.6.9.exe",
+ "installer_sha256": "124435550c93dd2717ed548d91a50d49368801f92bfc7919539e555617054c56"
 }
