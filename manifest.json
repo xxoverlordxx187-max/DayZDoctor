@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Fix the combination-lock bridge so it compiles on the server (2.6.6)",
+ "notes": "Roll back the combination-lock bridge: a last-loaded fix can't satisfy it (2.6.7)",
  "date": "2026-11-08",
- "app_version": "2.6.6",
+ "app_version": "2.6.7",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.6.exe",
- "installer_sha256": "6195133c20ba97998b159a773465453ba4f93b018b20f619021613ef584e9300"
+ "installer": "DayZDoctor_Setup_2.6.7.exe",
+ "installer_sha256": "004ed5a9699fa466b092d73fc24da5e94b3f146bed0495eb639934a482b3c829"
 }
