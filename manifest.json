@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Auto-fix combination locks that use the renamed 1.30 UnlockServer (2.6.5)",
+ "notes": "Fix the combination-lock bridge so it compiles on the server (2.6.6)",
  "date": "2026-11-08",
- "app_version": "2.6.5",
+ "app_version": "2.6.6",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.5.exe",
- "installer_sha256": "1734f99fac3878dff4265960252fdfb93e7f8857717465ead4ae45819403233b"
+ "installer": "DayZDoctor_Setup_2.6.6.exe",
+ "installer_sha256": "6195133c20ba97998b159a773465453ba4f93b018b20f619021613ef584e9300"
 }
