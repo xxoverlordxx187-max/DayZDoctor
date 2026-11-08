@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Fix frozen mod line after Find, make Ctrl+F app-wide, fix maximized start jump (2.6.11)",
+ "notes": "Lay the window out while invisible so start-up draws clean (2.6.12)",
  "date": "2026-11-08",
- "app_version": "2.6.11",
+ "app_version": "2.6.12",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.11.exe",
- "installer_sha256": "43c498aaac8d7989767ea8a16ebf97fe0c6f8d619e6bb04e355a7259c59bdc51"
+ "installer": "DayZDoctor_Setup_2.6.12.exe",
+ "installer_sha256": "ea5867495772db8252f3fd0fcbb3f626b20a9c22244663dcc7f8ee5170841ad9"
 }
