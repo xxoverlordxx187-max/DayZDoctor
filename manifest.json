@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Roll back the combination-lock bridge: a last-loaded fix can't satisfy it (2.6.7)",
+ "notes": "Combination-lock fix as a load-first compat PBO in the same fix mod folder (2.6.8)",
  "date": "2026-11-08",
- "app_version": "2.6.7",
+ "app_version": "2.6.8",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.7.exe",
- "installer_sha256": "004ed5a9699fa466b092d73fc24da5e94b3f146bed0495eb639934a482b3c829"
+ "installer": "DayZDoctor_Setup_2.6.8.exe",
+ "installer_sha256": "528eba0094c9947edf56ba24a8e803c0cae86f4781ad58d55082756d6638a1af"
 }
