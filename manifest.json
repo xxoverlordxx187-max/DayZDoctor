@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Start-up jumble fix, find-box arrows, Ko-fi button on the banner (2.6.10)",
+ "notes": "Fix frozen mod line after Find, make Ctrl+F app-wide, fix maximized start jump (2.6.11)",
  "date": "2026-11-08",
- "app_version": "2.6.10",
+ "app_version": "2.6.11",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.10.exe",
- "installer_sha256": "af39a3568c756d20fe9b6420b631286308dad6cd20ea2b3791921296275d3898"
+ "installer": "DayZDoctor_Setup_2.6.11.exe",
+ "installer_sha256": "43c498aaac8d7989767ea8a16ebf97fe0c6f8d619e6bb04e355a7259c59bdc51"
 }
