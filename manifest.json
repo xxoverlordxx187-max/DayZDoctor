@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Signer matches DayZ Tools byte-for-byte; key no longer drifts; refresh + Settings fixes (2.6.4)",
- "date": "2026-11-07",
- "app_version": "2.6.4",
+ "notes": "Auto-fix combination locks that use the renamed 1.30 UnlockServer (2.6.5)",
+ "date": "2026-11-08",
+ "app_version": "2.6.5",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.4.exe",
- "installer_sha256": "401a80448bfaeba9405622fa32637f71f07925414cd9380c9f7aabb37b643a58"
+ "installer": "DayZDoctor_Setup_2.6.5.exe",
+ "installer_sha256": "1734f99fac3878dff4265960252fdfb93e7f8857717465ead4ae45819403233b"
 }
