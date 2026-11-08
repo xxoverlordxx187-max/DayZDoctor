@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Small batch: silent updates, start-up jumble fix, Ctrl+F, keep-mod-line, signing-latest (2.6.9)",
+ "notes": "Start-up jumble fix, find-box arrows, Ko-fi button on the banner (2.6.10)",
  "date": "2026-11-08",
- "app_version": "2.6.9",
+ "app_version": "2.6.10",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.9.exe",
- "installer_sha256": "124435550c93dd2717ed548d91a50d49368801f92bfc7919539e555617054c56"
+ "installer": "DayZDoctor_Setup_2.6.10.exe",
+ "installer_sha256": "af39a3568c756d20fe9b6420b631286308dad6cd20ea2b3791921296275d3898"
 }
