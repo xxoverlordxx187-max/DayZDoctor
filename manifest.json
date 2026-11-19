@@ -1,8 +1,8 @@
 {
  "app": "DayZDoctor",
- "notes": "Fix mods never include the server's own older fix mod (no more \"Circular addon dependency\")",
- "date": "2026-11-15",
- "app_version": "2.6.17",
+ "notes": "Merge remote-tracking branch 'origin/main' into beta",
+ "date": "2026-11-19",
+ "app_version": "2.6.43",
  "engine_version": "2.2",
  "dayz_version": "1.30.164289",
  "dayz_builds": {
@@ -11,6 +11,6 @@
    "date": "2026-11-03"
   }
  },
- "installer": "DayZDoctor_Setup_2.6.17.exe",
- "installer_sha256": "9d76a0b45b290f5315793960bc9bbe1bf59766e203b0118e7bb4d6ed17b58890"
+ "installer": "DayZDoctor_Setup_2.6.43.exe",
+ "installer_sha256": "75aeaf157731c4f958e6fc6f45487dc8694bdb4dac3a07d871052ff042a8dc76"
 }
